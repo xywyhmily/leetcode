@@ -1,4 +1,4 @@
-package com.zjx.star;
+package com.zjx.star.day2504;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.zjx.star;
+package com.zjx.star.day2504;
 
 /*
  *2025/4/18:14:47
